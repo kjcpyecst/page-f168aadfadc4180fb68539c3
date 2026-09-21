@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jyxx1.cn/sitemap.xml
